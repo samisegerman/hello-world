@@ -2,3 +2,4 @@
 Just training
 
 Editoidaan filea
+Toka editti
